@@ -25,8 +25,8 @@
                             Vuelos
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/vuelo/create">Crear Vuelo</a></li>
-                            <li><a class="dropdown-item" href="/vuelo/show">Mostrar Vuelos</a></li>
+                            <li><a class="dropdown-item" href="vuelos/create">Crear Vuelo</a></li>
+                            <li><a class="dropdown-item" href="vuelos">Mostrar Vuelos</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -34,8 +34,8 @@
                             Reservaciones
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/reservacion/create">Crear Reservación</a></li>
-                            <li><a class="dropdown-item" href="/reservacion/show">Mostrar Reservaciones</a></li>
+                            <li><a class="dropdown-item" href="reservaciones/create">Crear Reservación</a></li>
+                            <li><a class="dropdown-item" href="reservaciones">Mostrar Reservaciones</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -43,8 +43,8 @@
                             Usuarios
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/usuario/create">Crear Usuario</a></li>
-                            <li><a class="dropdown-item" href="/usuario/show">Mostrar Usuarios</a></li>
+                            <li><a class="dropdown-item" href="usuarios/create">Crear Usuario</a></li>
+                            <li><a class="dropdown-item" href="usuarios">Mostrar Usuarios</a></li>
                         </ul>
                     </li>
                 </ul>
